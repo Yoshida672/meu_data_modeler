@@ -16,7 +16,11 @@
 <objectViews>
 <OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="025930B7-992E-D447-A315-4AFD1E9C60E7" otype="Entity" vid="608E784D-2E4A-4D27-7206-1D1F2A92F972">
 <hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
-<bounds x="168" y="110" width="252" height="109"/>
+<bounds x="98" y="110" width="252" height="109"/>
+</OView>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="C24FF345-327D-0AA4-3827-5094409B6E5C" otype="Entity" vid="7E85248C-4E25-5E7C-B4DD-D60EA373A5F9">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="159" y="258" width="175" height="44"/>
 </OView>
 </objectViews>
 </Diagram>
